@@ -7,3 +7,6 @@ In section one, i well cover 2 main things:
 
 In section two, i well cover:
 Spans, gradients, transparency, & web fonts.
+
+
+
