@@ -9,6 +9,6 @@ In section two, i well cover "Spans, gradients, transparency, & web fonts.":
 1- More precise ways to position text.
 2- Making colors fade across the screen.
 3- Adding some fancy fonts.
-
+                
 
 
