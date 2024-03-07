@@ -10,5 +10,5 @@ In section two, i well cover "Spans, gradients, transparency, & web fonts.":
 2- Making colors fade across the screen.
 3- Adding some fancy fonts.
                 
-
+In part three, i well cover "Responsive design, getting interactive with JS and css"
 
