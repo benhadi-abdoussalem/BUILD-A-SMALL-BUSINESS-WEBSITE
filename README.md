@@ -9,6 +9,9 @@ In section two, i well cover "Spans, gradients, transparency, & web fonts.":
 1- More precise ways to position text.
 2- Making colors fade across the screen.
 3- Adding some fancy fonts.
-                
-In part three, i well cover "Responsive design, getting interactive with JS and css"
 
+In part three, i well cover "Responsive design, getting interactive with JS and css":
+1- Revisiting our good work
+2- Styling for different screen sizes
+3- Simple animations with JavaScript
+4- with CSS
