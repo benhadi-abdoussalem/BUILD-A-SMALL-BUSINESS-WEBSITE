@@ -114,7 +114,7 @@
     </p>
   </div>
 
-  <div class="show-description">
+  <div class="show-description" , class="second">
     <p>
       pastrami boudin tongue <span class="price">$22</span><br />
       <small
@@ -136,6 +136,8 @@
   </div>
 
   <script>
-    alert("Javascript works!");
+    $("div").on("click", function () {
+      $(this).toggleclass("show-description");
+    });
   </script>
 </body>
