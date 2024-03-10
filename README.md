@@ -16,3 +16,6 @@ In part three, i well cover "Responsive design, getting interactive with JS and 
 3- Simple animations with JavaScript
 4- with CSS
 Javascript:
+
+CSS shows Off:
+
